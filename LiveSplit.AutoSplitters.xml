@@ -8331,4 +8331,15 @@
 		<Description>Auto start/split/reset and load removal available. Requires Hot Coffee mod.</Description>
 		<Website>https://discord.gg/T6JbGSG</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Plants vs. Zombies</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/ymblcza/ASL-Scripts/master/PlantsVsZombies.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description> Auto splitting in full-game categories for PVZ original version and Steam version. </Description>
+		<Website> https://discord.gg/2SPwkrb </Website>
+	</AutoSplitter>
 </AutoSplitters>
